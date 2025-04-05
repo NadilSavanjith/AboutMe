@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learningWebDevelopment<br><br>👨‍💻 All of my projects are available at https://sheran.netlify.app<br><br>📫 How to reach me nadilsavanjitham@gmail.com<br><br>⚡ Fun fact I think i'm Funnyy
+🌱 I’m currently learningWebDevelopment<br><br>👨‍💻 All of my projects are available at https://nadil.netlify.app<br><br>📫 How to reach me nadilsavanjitham@gmail.com<br><br>⚡ Fun fact I think i'm Funnyy
 
 
 ## 🌐 Socials:
